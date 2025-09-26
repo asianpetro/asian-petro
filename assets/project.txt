@@ -1,0 +1,4 @@
+I have to make a php mysql software with html, css, bootstrap mobile resonsive. the points are written below
+
+1. there should be two type login admin & distributor login, whre admin can write to suspend, add, edit a distributor
+2. 
